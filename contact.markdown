@@ -7,3 +7,5 @@ you can find me on:
 - [Facebook](https://www.facebook.com/fadel.matar)
 
 [About me](index.markdown) | [projects](projects.markdown)
+
+&copy; 2025 Fadel Matar. All rights reserved.

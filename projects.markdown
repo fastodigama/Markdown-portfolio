@@ -19,3 +19,5 @@
 **Technologies Used:** C#, ASP.NET, SQL Server
 
 [About me](index.markdown) | [Contact](contact.markdown)
+
+&copy; 2025 Fadel Matar. All rights reserved.
