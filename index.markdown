@@ -30,10 +30,16 @@ Hello! I'm Fadel Matar, a passionate web development enthusiast with a love for 
 
 ## Education
 
+## Web Development graduate certificate program
+**Institution** Humber Polytechnic
+**Location** Toronto, Ontario, Canada
+**Duration** Jan 2025 - Current
+
+
 ## Master of IT Security (MITS)
 **Institution:** OntarioTech University
 **Location:** Oshawa, Ontario, Canada
-**Duration:** Sep 2021 - Current
+**Duration:** Sep 2021 - May 2023
 
 ## Bachelor of Science, Computer Science
 **Institution:** Amman University
@@ -48,3 +54,5 @@ Hello! I'm Fadel Matar, a passionate web development enthusiast with a love for 
 **Credentials Assessed by:** World Education Service (WES) to meet Canadian education standards
 
 [Projects](projects.markdown) | [Contact](contact.markdown)
+
+&copy; 2025 Fadel Matar. All rights reserved.
