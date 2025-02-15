@@ -47,10 +47,4 @@ Hello! I'm Fadel Matar, a passionate web development enthusiast with a love for 
 **Duration:** Jan 2001 - Jan 2003
 **Credentials Assessed by:** World Education Service (WES) to meet Canadian education standards
 
-# Skills
-
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-
-
-
-[Projects](projects.md) | [Contact](contact.md)
+[Projects](projects.markdown) | [Contact](contact.markdown)

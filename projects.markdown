@@ -18,4 +18,4 @@
 **Description:** Creating a RESTful API for a web application as part of the Back-End Web Development course, using C#.
 **Technologies Used:** C#, ASP.NET, SQL Server
 
-[About me](index.md) | [Contact](contact.md)
+[About me](index.markdown) | [Contact](contact.markdown)
