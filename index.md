@@ -1,6 +1,10 @@
 # About Me
 
-<link rel="stylesheet" href=/styles/style.css>
+<style>
+    img {
+    border-radius: 50%;
+  }
+    </style>
 <img src="./images/me.jpg" alt="my photo" width="100">
 
 
