@@ -1,7 +1,6 @@
 # About Me
 
-<link rel="stylesheet" type="text/css" href=styles/style.css>
-<img src="./images/me.jpg" alt="my photo" width="100">
+<img src="./images/me.jpg" alt="my photo" style= "border-radius: 50%" width="100">
 
 
 Hello! I'm Fadel Matar, a passionate web development enthusiast with a love for creating innovative and engaging web solutions. I am currently pursuing a Web Development Certificate to enhance my skills and knowledge in front-end and back-end development. With a solid foundation in computer science and a strong drive to learn, I am excited to embark on this new journey and contribute to impactful web projects.
